@@ -2008,4 +2008,5 @@
                 </itemgra>
  
             </layer>
+            <layer name="Found items" ref="Found items"/>
         </layout>
